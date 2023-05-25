@@ -1,0 +1,41 @@
+# My Data Analysis Projects by Excel  
+
+##1*Payroll 
+I learned in this project:
+1.Recognize the Gui of the Excel
+2.learn how dealing with cell column and row 
+3.write the data in it
+4.create simple formule by "=" equal formule to collect how much the employee pay 
+5.hows full out the cells by copy & paste or by the mouse & the green small square in the left bottom of the cell
+6.how use the (MAX,MIN,AVARAGE,Sum) FUNCTION 
+7.how convert the formating
+8.how insert & delete the new column (right click on the name of column and insert or delete )
+9.nice view by using color
+10.how print all column in one page
+
+##2*the GradeBook 
+I learned in it:
+1.how write vertically ---> ("Select a cell, row, column, or a range.Select Home > Orientation. , and then select an option.
+                               You can rotate your text up, down, clockwise, or counterclockwise, or align text vertically")
+2.the difference between the relative & absolutly value   --->   "$"
+3.the graphic chart
+4.conditional formating
+
+##3*Decision Maker 
+I learned in it:
+1.how take the decision depended on some factors and what the weighted factors mean 
+2.use graphic chart to visualize the best decision 
+
+##4*Sales Report 
+I learned in it:
+1.spilt the column into two column by using " " 
+2.use if and sumif " " 
+3.sort and filter the data
+4.how use Pivot tables
+5.use pie chart to visualize the data
+
+##5*Car inventory
+1.use the Left or Right or Mid to split the text to many column --> "Left(text,number of char)
+2.How use the VLOOKUP ---->  "VLOOKUP(value which you look ,table which search in ,number of column of which you want it return)"
+3.Concatenate more string in one string ----> CONCATENATE(S1,S2,S3)
+4.USE pivattable and Scatter & Clustered chart
